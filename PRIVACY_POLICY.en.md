@@ -106,7 +106,7 @@ However, we may not be able to cater to the disclosure etc depending on the cont
 - Company
   - Yey, Inc.
 - Address
-  - Gran Tokyo South Tower 11F, 1-9-2 Marunouchi, Chiyoda-ku, Tokyo 100-6610
+  - Gran Tokyo South Tower 11F, 1-9-2 Marunouchi, Chiyoda-ku, Tokyo 100-6611
 - Personal information protection manager
   - Ryosuke Suzuki
 - Contact
