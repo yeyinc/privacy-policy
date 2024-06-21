@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Welcom to **Yey, Inc.**
+Welcom to **Yey Algorithm, Inc.**
 
 Yey, Inc. ("we", "us", or "our") shall comply with the Act on the Protection of Personal Information and other related laws and regulations, and shall handle personal information appropriately in accordance with the following privacy policy.
 
@@ -104,7 +104,7 @@ However, we may not be able to cater to the disclosure etc depending on the cont
 ## Contact for inquiry about personal information and request for disclosure etc. / Inquiries about personal information protection policy
 
 - Company
-  - Yey, Inc.
+  - Yey Algorithm, Inc.
 - Address
   - Gran Tokyo South Tower 11F, 1-9-2 Marunouchi, Chiyoda-ku, Tokyo 100-6611
 - Personal information protection manager
