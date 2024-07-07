@@ -88,7 +88,7 @@
   - 鈴木　凌介
 - 連絡先
   - 電話
-    - xx-xxxx-xxxx
+    - 050-1721-3991
   - メール
     - support@yeyinc.com
 
