@@ -111,7 +111,7 @@ However, we may not be able to cater to the disclosure etc depending on the cont
   - Ryosuke Suzuki
 - Contact
   - Phone
-    - +81-50-1721-3991
+    - +81-xxx
   - Email
     - support@yeyinc.com
 
